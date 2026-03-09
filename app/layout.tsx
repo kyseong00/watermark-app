@@ -8,8 +8,8 @@ const notoSansKr = Noto_Sans_KR({
 });
 
 export const metadata: Metadata = {
-  title: '이미지 텍스트 워터마크',
-  description: '업로드한 이미지에 텍스트 워터마크를 추가하는 도구',
+  title: '이미지 텍스트 워터마크 / Image Text Watermark',
+  description: '업로드한 이미지에 텍스트 워터마크를 추가하는 도구 / Add text watermarks to uploaded images',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

@@ -107,6 +107,7 @@ This is a web app for uploading or pasting an image, applying a text watermark, 
 - Result preview
 - PNG download
 - Better Korean font rendering support
+- Korean/English UI support with browser-language default and manual toggle
 - Docker-ready setup
 
 ### Run in development
