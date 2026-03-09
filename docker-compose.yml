@@ -1,0 +1,7 @@
+services:
+  watermark-app:
+    build: .
+    ports:
+      - "${PORT:-3001}:3000"
+    environment:
+      NODE_ENV: production
